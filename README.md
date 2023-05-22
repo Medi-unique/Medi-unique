@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Medi-unique
-- 👀 I’m interested in programming
+- 👋 Hi, I’m Medina Nesro
+- 👀 I’m interested in Mobile App development
 - 🌱 I’m currently learning Software Engineering
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me mediunique00@gmail.com
 
 <!---
